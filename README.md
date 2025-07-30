@@ -72,7 +72,8 @@ I'm a **Software Engineering Undergraduate** passionate about building real-worl
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zafar-Alee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zafar-Alee&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=zafar-Alee&theme=tokyonight&hide_border=true&background=0D1117" />
+
 </p>
 
 <p align="center">

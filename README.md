@@ -55,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="250" alt="Coding animation" />
 </p>
 
-👋 Hi, I’m **Zafar Ali** — a **Software Engineering Undergraduate** and **Android App Developer** passionate about crafting **real-world mobile solutions** with **Kotlin + Jetpack Compose**.  
+👋 Hi, I’m **Zafar Ali** , a **Software Engineering Undergraduate** and **Android App Developer** passionate about crafting **real-world mobile solutions** with **Kotlin + Jetpack Compose**.  
 I believe in **“learning by building”** and love experimenting with modern Android tools & architectures. 🚀  
 
 ---

@@ -34,8 +34,6 @@
 
 ## 🔧 About Me  
 
-
-
 Hi, I’m **Zafar Ali**, a **Software Engineering Undergraduate** and **Android Developer** passionate about building real-world apps with **Kotlin** and **Jetpack Compose**, **XML**.  
 I believe in *“learning by building”* and love exploring **modern Android tools**, **clean architectures**, and **UI/UX best practices**. 🚀  
 
@@ -47,7 +45,6 @@ I believe in *“learning by building”* and love exploring **modern Android to
 - 🛠 **Tech Explorer:** APIs, Firebase, Room DB, and modern tools  
 
 ---
-
 
 ### 🤝 Collaboration & Interests
 - 💡 Open to collaborate on **Android & Open Source projects**  
@@ -131,6 +128,15 @@ I believe in *“learning by building”* and love exploring **modern Android to
 
 ---
 
+<!-- 🏆 GitHub Trophies -->
+## 🏆 GitHub Cups  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zafar-Alee&theme=algolia&no-frame=true&margin-w=10&column=7" width="100%"/>
+</p>
+
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -148,7 +154,6 @@ I believe in *“learning by building”* and love exploring **modern Android to
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafar-Alee&bg_color=0d1117&color=3DDC84&line=10b981&point=facc15&area=true&hide_border=true" width="95%"/>
 </p>
-
 
 ---
 

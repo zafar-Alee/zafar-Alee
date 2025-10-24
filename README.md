@@ -149,6 +149,7 @@ I believe in *“learning by building”* and love exploring **modern Android to
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafar-Alee&bg_color=0d1117&color=3DDC84&line=10b981&point=facc15&area=true&hide_border=true" width="95%"/>
 </p>
 
+
 ---
 
 ## 🏅 Holopin Badges  

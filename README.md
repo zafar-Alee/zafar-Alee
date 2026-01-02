@@ -126,27 +126,6 @@ I believe in *“learning by building”* and love exploring **modern Android to
 
 </div>
 
----
-
-<!-- 🏆 GitHub Trophies -->
-## 🏆 GitHub Cups  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafar-Alee&theme=algolia&no-frame=true&margin-w=10&column=7" width="100%"/>
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zafar-Alee&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=zafar-Alee&theme=react&hide_border=true&background=0D1117&stroke=3DDC84&ring=3DDC84" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafar-Alee&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3DDC84" width="44%" />
-</p>
 
 ---
 

@@ -129,14 +129,6 @@ I believe in *“learning by building”* and love exploring **modern Android to
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zafar-Alee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&line_height=25" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zafar-Alee&theme=tokyonight&hide_border=true&background=0D1117&mode=daily" width="48%" />
-</p>
-
----
 
 ## 📈 Contribution Graph  
 <p align="center">

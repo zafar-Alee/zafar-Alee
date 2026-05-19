@@ -34,7 +34,7 @@
 
 ## 🔧 About Me  
 
-Hi, I’m **Zafar Ali**, a **Software Engineering Undergraduate** and **Android Developer** passionate about building real-world apps with **Kotlin** and **Jetpack Compose**, **XML**.  
+Hi, I’m **Zafar Ali**, a **Software Engineering Undergraduate** and **Android Developer** passionate about building real-world apps with **Kotlin** and **Jetpack Compose**, **XML**, **Firebase**.  
 I believe in *“learning by building”* and love exploring **modern Android tools**, **clean architectures**, and **UI/UX best practices**. 🚀  
 
 ---

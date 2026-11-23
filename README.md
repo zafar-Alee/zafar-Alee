@@ -98,7 +98,7 @@ I believe in *“learning by building”* and love exploring **modern Android to
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://medium.com/@za7922997" target="_blank">
+        <a href="https://medium.com/@zafarali92" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/medium-logo.png" width="85" alt="Medium" style="border-radius: 20px; background: linear-gradient(145deg, #000000, #444444); padding: 10px; box-shadow: 0 0 20px rgba(61,220,132,0.4);" />
           <br/>
           <b>Medium</b>

@@ -130,7 +130,7 @@ I believe in *“learning by building”* and love exploring **modern Android to
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zafar-Alee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=zafar-Alee&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=zafar-Alee&theme=dark&hide_border=false&timezone=Asia%2FKarachi)<br/>
 ---
 

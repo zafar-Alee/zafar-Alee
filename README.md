@@ -1,151 +1,558 @@
-<!-- 🌟 ZAFAR ALI GitHub Profile README -->
 
-<!-- 💚 Modern Android Developer Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C511BAQHxjUNbm0bvNg/company-background_1536_768/company-background_1536_768/0/1583882155231?e=2147483647&v=beta&t=b8cqy3HNOmwzHblH2-Q8FNZhTrlyZPKHgwu45jEO-js" width="40%" alt="Android Developer Banner"/>
-</p>
-
-<!-- 🧠 Name & Title -->
-<h1 align="center" style="font-weight:700; font-size:42px;">👋 Hi, I'm Zafar Ali</h1>
-<h3 align="center" style="font-weight:500; color:#3DDC84;">
-  Android Developer • Kotlin • Jetpack Compose • Firebase
-</h3>
-
-
----
-
-<!-- 🧑 Profile Image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/176493940?v=4" width="150" alt="Zafar Ali" style="border-radius:50%; border:3px solid #3DDC84;" />
-</p>
-
-<!-- 💼 Role Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-Software%20Engineer-0F9D58?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tech%20Explorer-9333EA?style=for-the-badge&logo=rocket&logoColor=white"/>
-</p>
-
-<!-- ⌨️ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&height=60&lines=Android+App+Developer;Jetpack+Compose+Explorer;Open+Source+Contributor;Clean+Architecture+Learner;Tech+Enthusiast" alt="Typing Animation" />
-</p>
-
----
-
-## 🔧 About Me  
-
-Hi, I’m **Zafar Ali**, a **Software Engineering Undergraduate** and **Android Developer** passionate about building real-world apps with **Kotlin** and **Jetpack Compose**, **XML**, **Firebase**.  
-I believe in *“learning by building”* and love exploring **modern Android tools**, **clean architectures**, and **UI/UX best practices**. 🚀  
-
----
-
-### 🌟 What I Do
-- 📱 **Android Development:** Jetpack Compose, Material 3, Kotlin, XML  
-- 🏗 **Architecture:** Clean Architecture & MVVM  
-- 🛠 **Tech Explorer:** APIs, Firebase, Room DB, and modern tools  
-
----
-
-### 🤝 Collaboration & Interests
-- 💡 Open to collaborate on **Android & Open Source projects**  
-- 🌍 Based in **Nawabshah, Sindh, Pakistan**  
-- ✨ Fun Fact: I often turn **real-life problems into app ideas!**  
-
----
-
-<!-- 🌐 Fancy 3-Column Social Links -->
-<h2 align="center">🤝 Connect With Me</h2>
+<!-- ========================================================= -->
+<!-- ZAFAR ALI | CYAN EDITION                                  -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="https://www.linkedin.com/in/zafar-android-dev/" target="_blank">
-          <img src="https://img.icons8.com/color/96/0A66C2/linkedin-circled--v1.png" width="85" alt="LinkedIn" style="border-radius: 20px; background: linear-gradient(145deg, #0A66C2, #1e90ff); padding: 10px; box-shadow: 0 0 20px rgba(61,220,132,0.5);" />
-          <br/>
-          <b>LinkedIn</b>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="mailto:zafaralee.work@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/96/EA4335/gmail-new.png" width="85" alt="Gmail" style="border-radius: 20px; background: linear-gradient(145deg, #EA4335, #ff6b6b); padding: 10px; box-shadow: 0 0 20px rgba(234,67,53,0.4);" />
-          <br/>
-          <b>Email</b>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://github.com/zafar-Alee" target="_blank">
-          <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="85" alt="GitHub" style="border-radius: 20px; background: linear-gradient(145deg, #0D1117, #333); padding: 10px; box-shadow: 0 0 20px rgba(24,23,23,0.6);" />
-          <br/>
-          <b>GitHub</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="https://www.facebook.com/share/1A2ihnrT7h/" target="_blank">
-          <img src="https://img.icons8.com/color/96/1877F2/facebook-new.png" width="85" alt="Facebook" style="border-radius: 20px; background: linear-gradient(145deg, #1877F2, #00B2FF); padding: 10px; box-shadow: 0 0 20px rgba(24,119,242,0.5);" />
-          <br/>
-          <b>Facebook</b>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://www.instagram.com/zafar_ali92?igsh=MWh6OG5rMnNhNHpuag==" target="_blank">
-          <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="85" alt="Instagram" style="border-radius: 20px; background: linear-gradient(145deg, #E4405F, #F56040); padding: 10px; box-shadow: 0 0 20px rgba(228,64,95,0.5);" />
-          <br/>
-          <b>Instagram</b>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://medium.com/@zafarali92" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/medium-logo.png" width="85" alt="Medium" style="border-radius: 20px; background: linear-gradient(145deg, #000000, #444444); padding: 10px; box-shadow: 0 0 20px rgba(61,220,132,0.4);" />
-          <br/>
-          <b>Medium</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="./hero.svg" width="100%" alt="Zafar Ali - Android Developer"/>
+</p>
+
+
+<!-- ANIMATED TYPING INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Android+Applications+with+Kotlin;Crafting+Modern+Interfaces+with+Jetpack+Compose;Exploring+AI-Powered+Mobile+Solutions;Turning+Ideas+into+Real-World+Products" alt="Animated introduction"/>
+
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/zafar-android-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/zafar-Alee">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@zafarali92">
+<img src="https://img.shields.io/badge/Medium-Read%20Articles-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+&nbsp;
+<a href="mailto:zafaralee.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=zafar-Alee&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/MUET-Software%20Engineering-164E63?style=for-the-badge" alt="MUET"/>
+<img src="https://img.shields.io/badge/FOCUS-Android%20Development-06B6D4?style=for-the-badge" alt="Android Development"/>
 
 </div>
 
-<!-- ✨ Separation Line after Social Links -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=3DDC84&height=4&section=footer" width="75%" />
-</p>
+---
 
-## 🧰 Tech Stack  
+<!-- ========================================================= -->
+<!-- ABOUT                                                     -->
+<!-- ========================================================= -->
 
-![Tools & Technologies](https://img.shields.io/badge/Tools%20&%20Technologies-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Hello, I'm Zafar Ali!
+
+I'm a Software Engineering undergraduate at **MUET SZAB Campus**, passionate about Android development, software engineering, and building technology that solves real-world problems.
+
+My primary focus is **Android application development using Kotlin and Jetpack Compose**. I enjoy transforming ideas into applications through modern UI development, clean architecture, API integration, and backend services.
+
+Beyond coding, I contribute to technology initiatives, student leadership, entrepreneurship activities, and developer communities.
+
+**I believe in learning by building and creating technology that makes a difference.**
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://avatars.githubusercontent.com/u/176493940?v=4" width="175" alt="Zafar Ali"/>
+
+<br/>
+
+**Zafar Ali**
+
+📍 Sindh, Pakistan
+
+🎓 Software Engineering
+
+📱 Android Development
+
+🚀 Product Building
+
+</td>
+</tr>
+</table>
+
+### Quick Overview
+
+| | |
+|---|---|
+| 🎓 Education | BS Software Engineering — MUET SZAB Campus |
+| 💻 Primary Focus | Android Development |
+| ⚡ Main Language | Kotlin |
+| 🎨 UI Development | Jetpack Compose, Material Design 3 |
+| 🏗️ Architecture | MVVM, Clean Architecture |
+| 🔥 Backend | Firebase, REST APIs |
+| 🧠 Interests | Mobile AI, Product Development |
+| ✍️ Writing | Technical articles on Medium |
+
+---
+
+<!-- ========================================================= -->
+<!-- WHAT I DO                                                 -->
+<!-- ========================================================= -->
+
+## ✨ What I Do
 
 <div align="center">
 
-| **Mobile** | **Languages** | **Backend / DB** | **Design / Tools** |
-|------------|---------------|------------------|---------------------|
-| <img src="https://img.icons8.com/color/65/android-os.png" width="65"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="65"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="65"/> <img src="https://img.icons8.com/color/65/mysql-logo.png" width="65"/> | <img src="https://img.icons8.com/color/65/android-studio--v3.png" width="65"/> <img src="https://img.icons8.com/color/65/figma.png" width="65"/> <img src="https://img.icons8.com/color/65/git.png" width="65"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/65/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="65"/> |
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="55" alt="Kotlin"/>
+
+### Kotlin Development
+
+<sub>Building Android application logic and maintainable software.</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="55" alt="Android Studio"/>
+
+### Modern Android UI
+
+<sub>Jetpack Compose, responsive layouts and Material Design 3.</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="55" alt="Firebase"/>
+
+### Backend Integration
+
+<sub>Firebase, authentication, APIs and application data.</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zafar-Alee&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=zafar-Alee&theme=dark&hide_border=false&timezone=Asia%2FKarachi)<br/>
 ---
 
+<!-- ========================================================= -->
+<!-- ANIMATED CURRENT FOCUS                                    -->
+<!-- ========================================================= -->
 
-## 📈 Contribution Graph  
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:061B2C,50:087E9B,100:22D3EE&text=NOW%3A%20BUILDING%20SMARTER%20ANDROID%20APPLICATIONS&fontSize=22&fontColor=FFFFFF&animation=fadeIn" alt="Current development focus banner"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Deepening+My+Kotlin+%26+Compose+Skills;Applying+MVVM+%26+Clean+Architecture;Integrating+APIs+%26+Firebase;Exploring+AI+in+Mobile+Applications;Building+Practical+Software+Products" alt="Animated current focus"/>
+
+</div>
+
+### My Development Direction
+
+| Area | Current Focus |
+|---|---|
+| 📱 Android | Kotlin, Jetpack Compose, Material Design 3 |
+| 🏗️ Architecture | MVVM, Clean Architecture, Repository Pattern |
+| 🔌 Integration | Retrofit, REST APIs, Firebase |
+| 💾 Database | Room, SQLite, Cloud Firestore |
+| 🤖 AI | Exploring AI-assisted development and mobile AI applications |
+
+> **My goal:** Build reliable Android applications with thoughtful architecture, useful features, and meaningful real-world applications.
+
+---
+
+<!-- ========================================================= -->
+<!-- TECH STACK                                                -->
+<!-- ========================================================= -->
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafar-Alee&bg_color=0d1117&color=3DDC84&line=10b981&point=facc15&area=true&hide_border=true" width="95%"/>
+  <img src="./fullstack-ai-workflow.svg" width="100%" alt="Zafar Ali - Android Developer"/>
 </p>
 
----
+## 🧰 Technology Stack
 
+### 📱 Android Development
 
-<!-- 💫 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=120&section=footer" width="100%" />
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java&theme=dark" alt="Android development stack"/>
 </p>
 
-<h3 align="center" style="color:#9CA3AF;">"Code, Learn, Build, Repeat! 💻"</h3>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-06B6D4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material Design 3](https://img.shields.io/badge/Material%20Design%203-087E9B?style=for-the-badge&logo=materialdesign&logoColor=white)
+![XML](https://img.shields.io/badge/XML-164E63?style=for-the-badge&logo=xml&logoColor=white)
+
+### 🏗️ Architecture & Libraries
+
+![MVVM](https://img.shields.io/badge/MVVM-087E9B?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-164E63?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-0891B2?style=flat-square)
+![Retrofit](https://img.shields.io/badge/Retrofit-06B6D4?style=flat-square)
+![Room](https://img.shields.io/badge/Room%20Database-164E63?style=flat-square)
+
+### 🔥 Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite&theme=dark" alt="Backend and database stack"/>
+</p>
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0891B2?style=flat-square)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-164E63?style=flat-square&logo=firebase&logoColor=white)
+
+### 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&theme=dark" alt="Development tools"/>
+</p>
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### 🤖 AI-Assisted Development
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Antigravity-AI%20Development-087E9B?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
+</p>
+
+Exploring AI-assisted development workflows to support coding, project implementation, debugging, and productivity.
+
+---
+
+<!-- ========================================================= -->
+<!-- PROJECTS                                                  -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+<sub>A selection of applications and product ideas I've worked on.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 Scanimal
+
+**AI Animal Identification & Digital Identity**
+
+A product focused on identifying animals through unique biometric patterns, with digital identity and ownership management concepts.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-06B6D4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Federal Tax Filing
+
+**Android Contract Project**
+
+Remote contribution to a mobile application focused on federal tax filing workflows.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-087E9B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ₿ Crypto Currency App
+
+**Cryptocurrency Information**
+
+Android application integrating cryptocurrency data through the CoinGecko API.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-0891B2?style=flat-square)
+![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC647?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Application
+
+**Weather Data & Mobile UI**
+
+Android application exploring weather information through API integration and mobile interface development.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0891B2?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Chat Application
+
+Firebase-based chat application experiments, exploring authentication and real-time communication.
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Notes & To-Do Applications
+
+Android applications focused on task management, data handling, and application fundamentals.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room-0891B2?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!-- EXPERIENCE                                                -->
+<!-- ========================================================= -->
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="60" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="42" alt="Android Studio"/>
+
+</td>
+<td valign="top">
+
+### Remote Android App Internship
+
+<sub>August 2025 – October 2025</sub>
+
+Practical experience in Android application development, UI implementation, and mobile development workflows.
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="42" alt="Kotlin"/>
+
+</td>
+<td valign="top">
+
+### Remote Android Developer — Contract Project
+
+<sub>Federal Tax Filing Mobile Application</sub>
+
+Contributed to Android implementation and project development tasks in a remote development environment.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!-- LEADERSHIP                                                -->
+<!-- ========================================================= -->
+
+## 🌍 Community & Leadership
+
+<sub>Contributing beyond code through technology initiatives, student engagement, and collaboration.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 GDG on Campus
+
+**Former Community Lead**
+
+<sub>MUET SZAB Campus</sub>
+
+Led developer community activities, technical learning initiatives, student engagement, and collaborative learning opportunities.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 OptiSphere Network
+
+**Community Lead — Sindh Chapter**
+
+Leading regional community initiatives, technical sessions, and student engagement across interior Sindh.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Hult Prize
+
+**Marketing Lead — MUET SZAB**
+
+Contributed to marketing, outreach, entrepreneurship initiatives, and student engagement.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ OpenHack'26
+
+**Sponsor & Outreach Lead**
+
+Contributed to sponsorship outreach, marketing, social media, and hackathon coordination.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📣 Department of Software Engineering
+
+**Social Media Manager — MUET SZAB**
+
+Supporting departmental communication, content creation, and digital presence.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Technology & Student Initiatives
+
+Contributing to student-focused technology activities, collaboration, and knowledge sharing.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!-- WRITING                                                   -->
+<!-- ========================================================= -->
+
+## ✍️ Writing & Knowledge Sharing
+
+I enjoy documenting technical learning, sharing development experiences, and exploring new technologies through writing.
+
+<div align="center">
+
+<a href="https://medium.com/@zafarali92">
+<img src="https://img.shields.io/badge/Medium-Explore%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!-- GITHUB STATS                                              -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zafar-Alee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafar-Alee&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=zafar-Alee&theme=dark&hide_border=true&border_radius=12&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zafar-Alee&bg_color=061B2C&color=67E8F9&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!-- PERSONAL PHILOSOPHY                                       -->
+<!-- ========================================================= -->
+
+## 🎯 What Drives Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💡 BUILD
+
+<sub>Transform ideas into practical software products.</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 📚 LEARN
+
+<sub>Keep exploring technologies and improving engineering skills.</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 🤝 CONTRIBUTE
+
+<sub>Collaborate, share knowledge, and create opportunities.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!-- ANIMATED FOOTER                                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Have+an+idea%3F+Let's+build+it.;Open+to+collaboration+and+opportunities.;Keep+learning.+Keep+building.+Keep+growing." alt="Animated closing message"/>
+
+<br/><br/>
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/zafar-android-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/zafar-Alee">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@zafarali92">
+<img src="https://img.shields.io/badge/Medium-Articles-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+&nbsp;
+<a href="mailto:zafaralee.work@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!**
+
+
+<p align="center">
+  <img src="./footer.svg" width="100%" alt="Keep building"/>
+</p>
+
+</div>

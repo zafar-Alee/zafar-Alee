@@ -397,7 +397,8 @@ I enjoy documenting technical learning, sharing development experiences, and exp
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=zafar-Alee&theme=dark&hide_border=true&border_radius=12&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+
+<img src="https://streak-stats.demolab.com?user=zafar-Alee&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
 
 <br/><br/>
 

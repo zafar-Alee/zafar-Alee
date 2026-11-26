@@ -5,7 +5,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Zafar Ali - Android Developer"/>
+  <img src="./assets/hero.svg" width="100%" alt="Zafar Ali - Android Developer"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Android+Applications+with+Kotlin;Crafting+Modern+Interfaces+with+Jetpack+Compose;Exploring+AI-Powered+Mobile+Solutions;Turning+Ideas+into+Real-World+Products" alt="Animated introduction"/>
@@ -208,7 +208,7 @@ Beyond coding, I contribute to technology initiatives, student leadership, entre
 Exploring AI-assisted development workflows to support coding, project implementation, debugging, and productivity.
 
 <p align="center">
-  <img src="./fullstack-ai-workflow.svg" width="100%" alt="Full-stack AI development workflow"/>
+  <img src="./assets/fullstack-ai-workflow.svg" width="100%" alt="Full-stack AI development workflow"/>
 </p>
 
 ---
@@ -474,7 +474,7 @@ I enjoy documenting technical learning, sharing development experiences, and exp
 **Thanks for visiting my profile!**
 
 <p align="center">
-  <img src="./footer.svg" width="100%" alt="Keep building"/>
+  <img src="./assets/footer.svg" width="100%" alt="Keep building"/>
 </p>
 
 </div>

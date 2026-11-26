@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500" role="img" aria-labelledby="title desc">
+<title id="title">Zafar Ali — Android, Backend and AI Integration Workflow</title>
+<desc id="desc">A technical architecture diagram. Android Kotlin and Jetpack Compose app uses Firebase Authentication and Retrofit to send HTTPS requests to a FastAPI backend. The backend validates requests and coordinates business logic with a Gemini AI service and Firestore database, then returns JSON responses to the app. Room provides local persistence. Animated directional arrows show request and response flow.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060e1b"/><stop offset=".55" stop-color="#0b1428"/><stop offset="1" stop-color="#17102d"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#12d5f5"/><stop offset="1" stop-color="#438cff"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b75ff"/><stop offset="1" stop-color="#d18cff"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#17c997"/><stop offset="1" stop-color="#6ce8ae"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#28405c" stroke-width=".6" opacity=".32"/></pattern>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <marker id="arrCyan" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="#2bd6f5"/></marker>
+  <marker id="arrViolet" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="#b18cff"/></marker>
+  <marker id="arrGreen" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="#42dda8"/></marker>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif}
+    .mono{font-family:Consolas,'Courier New',monospace}
+    .eyebrow{font-size:10px;letter-spacing:2px;fill:#7997b8}
+    .heading{font-size:24px;font-weight:800;fill:#eef8ff}
+    .section{font-size:14px;font-weight:700;letter-spacing:1px;fill:#eaf6ff}
+    .item{font-size:12px;fill:#d3e5f5}
+    .hint{font-size:10px;fill:#88a5c2}
+    .tag{font-size:10px;font-weight:bold;fill:#e8f8ff}
+    .panel{fill:#0b1b30;stroke:#254663;stroke-width:1.2}
+    .subpanel{fill:#081525;stroke:#28415d;stroke-width:1}
+    .request{fill:none;stroke:#28cffa;stroke-width:2.5;stroke-dasharray:7 9;marker-end:url(#arrCyan);animation:flow 1.35s linear infinite}
+    .response{fill:none;stroke:#b18cff;stroke-width:2.5;stroke-dasharray:7 9;marker-end:url(#arrViolet);animation:flowBack 1.35s linear infinite}
+    .dataflow{fill:none;stroke:#42dda8;stroke-width:2.2;stroke-dasharray:6 8;marker-end:url(#arrGreen);animation:flow 1.5s linear infinite}
+    .pulse{animation:pulse 2.3s ease-in-out infinite}
+    @keyframes flow{to{stroke-dashoffset:-64}}
+    @keyframes flowBack{to{stroke-dashoffset:64}}
+    @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.request,.response,.dataflow,.pulse{animation:none}}
+  </style>
+</defs>
+
+<rect x="1" y="1" width="1098" height="498" rx="19" fill="url(#bg)" stroke="#29415d"/>
+<rect x="2" y="2" width="1096" height="496" rx="18" fill="url(#grid)"/>
+<circle cx="240" cy="185" r="210" fill="#0aa9e8" opacity=".045"/>
+<circle cx="850" cy="190" r="240" fill="#9b64ff" opacity=".045"/>
+<path d="M22 42H1078" stroke="#263c56"/>
+<circle cx="25" cy="22" r="3.5" fill="#ff625a"/><circle cx="38" cy="22" r="3.5" fill="#ffbd44"/><circle cx="51" cy="22" r="3.5" fill="#36d17a"/>
+<text x="72" y="26" class="eyebrow">ZAFAR ALI  /  ENGINEERING WORKFLOW</text>
+<text x="1075" y="26" text-anchor="end" class="eyebrow">ANDROID  +  BACKEND  +  AI</text>
+
+<text x="38" y="82" class="heading">From Android UI to AI-powered backend</text>
+<text x="40" y="103" class="hint">A practical client–server architecture with authenticated API requests, AI processing and persistent data</text>
+
+<!-- Android client -->
+<rect x="35" y="139" width="285" height="255" rx="14" class="panel" stroke="#168fc0"/>
+<rect x="35" y="139" width="285" height="4" rx="2" fill="url(#cyan)"/>
+<text x="57" y="169" class="eyebrow" fill="#38d8fa">01  /  ANDROID CLIENT</text>
+<text x="57" y="197" class="section">Android Application</text>
+<text x="57" y="224" class="item">Kotlin  ·  Jetpack Compose</text>
+<text x="57" y="245" class="item">MVVM  ·  Clean Architecture</text>
+<path d="M57 260H298" stroke="#28445f"/>
+<text x="57" y="282" class="hint">PRESENTATION &amp; DATA LAYER</text>
+<rect x="57" y="294" width="105" height="27" rx="7" fill="#08283b" stroke="#168fbb"/>
+<text x="109" y="311" text-anchor="middle" class="tag">Retrofit</text>
+<rect x="170" y="294" width="128" height="27" rx="7" fill="#10203d" stroke="#6479d8"/>
+<text x="234" y="311" text-anchor="middle" class="tag">Firebase Auth</text>
+<rect x="57" y="330" width="105" height="27" rx="7" fill="#10203d" stroke="#6479d8"/>
+<text x="109" y="347" text-anchor="middle" class="tag">Room</text>
+<text x="170" y="347" class="hint">Local cache / offline data</text>
+<text x="57" y="376" class="hint">UI state  →  ViewModel  →  Repository</text>
+
+<!-- Backend -->
+<rect x="405" y="139" width="290" height="255" rx="14" class="panel" stroke="#477be0"/>
+<rect x="405" y="139" width="290" height="4" rx="2" fill="url(#violet)"/>
+<text x="427" y="169" class="eyebrow" fill="#b49aff">02  /  BACKEND API</text>
+<text x="427" y="197" class="section">Python · FastAPI</text>
+<text x="427" y="224" class="item">HTTPS REST endpoints</text>
+<text x="427" y="245" class="item">Token verification · Validation</text>
+<path d="M427 260H673" stroke="#28445f"/>
+<text x="427" y="282" class="hint">SERVER-SIDE RESPONSIBILITIES</text>
+<rect x="427" y="294" width="112" height="27" rx="7" fill="#171b3c" stroke="#8272e9"/>
+<text x="483" y="311" text-anchor="middle" class="tag">Business Logic</text>
+<rect x="547" y="294" width="126" height="27" rx="7" fill="#171b3c" stroke="#8272e9"/>
+<text x="610" y="311" text-anchor="middle" class="tag">Orchestration</text>
+<text x="427" y="347" class="hint">Request → process → service calls</text>
+<text x="427" y="376" class="hint">Structured JSON response to the app</text>
+
+<!-- AI service -->
+<rect x="780" y="139" width="285" height="112" rx="13" class="panel" stroke="#9d76e9"/>
+<rect x="780" y="139" width="285" height="4" rx="2" fill="url(#violet)"/>
+<text x="801" y="169" class="eyebrow" fill="#c29bff">03A  /  AI SERVICE</text>
+<text x="801" y="195" class="section">Gemini API</text>
+<text x="801" y="218" class="item">AI inference · Context · Results</text>
+<text x="801" y="237" class="hint">Backend controls prompts and response handling</text>
+
+<!-- Database -->
+<rect x="780" y="282" width="285" height="112" rx="13" class="panel" stroke="#20b88b"/>
+<rect x="780" y="282" width="285" height="4" rx="2" fill="url(#green)"/>
+<text x="801" y="312" class="eyebrow" fill="#54e4b0">03B  /  DATA LAYER</text>
+<text x="801" y="338" class="section">Cloud Firestore</text>
+<text x="801" y="361" class="item">Users · App records · AI results</text>
+<text x="801" y="380" class="hint">Persistent cloud data</text>
+
+<!-- request and response arrows -->
+<path d="M320 219H400" class="request"/>
+<text x="360" y="205" text-anchor="middle" class="hint" fill="#5bdfff">HTTPS + JSON</text>
+<path d="M400 239H320" class="response"/>
+<text x="360" y="258" text-anchor="middle" class="hint" fill="#c6aaff">JSON response</text>
+
+<!-- backend to AI / DB branching -->
+<path d="M695 202H739V195H775" class="request"/>
+<text x="738" y="184" text-anchor="middle" class="hint">AI call</text>
+<path d="M775 226H739V257H710V270H695" class="response"/>
+<text x="742" y="246" text-anchor="middle" class="hint">AI result</text>
+<path d="M695 330H739V338H775" class="dataflow"/>
+<text x="738" y="320" text-anchor="middle" class="hint">Read / write</text>
+<path d="M775 367H739V380H710V380H695" class="dataflow"/>
+<text x="738" y="390" text-anchor="middle" class="hint">Data result</text>
+
+<!-- bottom delivery lifecycle -->
+<rect x="35" y="420" width="1030" height="54" rx="10" fill="#09172a" stroke="#263f5b"/>
+<text x="55" y="442" class="eyebrow">04  /  DELIVERY LOOP</text>
+<g>
+ <rect x="245" y="431" width="112" height="29" rx="7" fill="#0b2940" stroke="#168fbb"/><text x="301" y="450" text-anchor="middle" class="tag">Develop</text>
+ <path d="M360 445H390" class="request"/>
+ <rect x="397" y="431" width="112" height="29" rx="7" fill="#0b2940" stroke="#168fbb"/><text x="453" y="450" text-anchor="middle" class="tag">Integrate</text>
+ <path d="M512 445H542" class="request"/>
+ <rect x="549" y="431" width="112" height="29" rx="7" fill="#10203d" stroke="#6479d8"/><text x="605" y="450" text-anchor="middle" class="tag">Test</text>
+ <path d="M664 445H694" class="request"/>
+ <rect x="701" y="431" width="112" height="29" rx="7" fill="#102b27" stroke="#1ba77f"/><text x="757" y="450" text-anchor="middle" class="tag">Deploy</text>
+ <path d="M816 445H846" class="request"/>
+ <rect x="853" y="431" width="175" height="29" rx="7" fill="#102b27" stroke="#1ba77f"/><text x="940" y="450" text-anchor="middle" class="tag">Monitor &amp; Improve</text>
+</g>
+<text x="550" y="490" text-anchor="middle" class="eyebrow">SECURE API DESIGN  •  SEPARATION OF CONCERNS  •  AI-AUGMENTED APPLICATIONS</text>
+</svg>

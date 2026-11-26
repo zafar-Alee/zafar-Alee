@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title desc">
+  <title id="title">Keep building</title>
+  <desc id="desc">Animated cyan closing banner for a GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#071426"/><stop offset=".5" stop-color="#102d49"/><stop offset="1" stop-color="#071426"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#7dd3fc"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="18" fill="url(#bg)"/>
+  <path d="M0 18 H1200 M0 102 H1200" stroke="#164e63" stroke-width="1" opacity=".8"/>
+  <path d="M70 60 H280 M920 60 H1130" stroke="url(#cyan)" stroke-width="2" stroke-linecap="round" opacity=".85">
+    <animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="70" cy="60" r="4" fill="#67e8f9"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1130" cy="60" r="4" fill="#67e8f9"><animate attributeName="r" values="6;3;6" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="600" y="55" text-anchor="middle" fill="#e0f2fe" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="3">BUILD  •  LEARN  •  SHIP</text>
+  <text x="600" y="82" text-anchor="middle" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="4">KEEP MOVING FORWARD</text>
+  <rect x="280" y="96" width="640" height="2" rx="1" fill="#164e63"/>
+  <rect x="280" y="96" width="120" height="2" rx="1" fill="url(#cyan)">
+    <animate attributeName="x" values="280;800;280" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

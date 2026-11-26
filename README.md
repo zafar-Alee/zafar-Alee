@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!-- ZAFAR ALI | CYAN EDITION                                  -->
 <!-- ========================================================= -->
@@ -9,8 +8,6 @@
   <img src="./hero.svg" width="100%" alt="Zafar Ali - Android Developer"/>
 </p>
 
-
-<!-- ANIMATED TYPING INTRO -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Android+Applications+with+Kotlin;Crafting+Modern+Interfaces+with+Jetpack+Compose;Exploring+AI-Powered+Mobile+Solutions;Turning+Ideas+into+Real-World+Products" alt="Animated introduction"/>
 
 <br/><br/>
@@ -41,10 +38,6 @@
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!-- ABOUT                                                     -->
-<!-- ========================================================= -->
 
 ## 👨‍💻 About Me
 
@@ -98,10 +91,6 @@ Beyond coding, I contribute to technology initiatives, student leadership, entre
 
 ---
 
-<!-- ========================================================= -->
-<!-- WHAT I DO                                                 -->
-<!-- ========================================================= -->
-
 ## ✨ What I Do
 
 <div align="center">
@@ -142,9 +131,7 @@ Beyond coding, I contribute to technology initiatives, student leadership, entre
 
 ---
 
-<!-- ========================================================= -->
-<!-- ANIMATED CURRENT FOCUS                                    -->
-<!-- ========================================================= -->
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -169,15 +156,6 @@ Beyond coding, I contribute to technology initiatives, student leadership, entre
 > **My goal:** Build reliable Android applications with thoughtful architecture, useful features, and meaningful real-world applications.
 
 ---
-
-<!-- ========================================================= -->
-<!-- TECH STACK                                                -->
-<!-- ========================================================= -->
-
-
-<p align="center">
-  <img src="./fullstack-ai-workflow.svg" width="100%" alt="Zafar Ali - Android Developer"/>
-</p>
 
 ## 🧰 Technology Stack
 
@@ -223,17 +201,17 @@ Beyond coding, I contribute to technology initiatives, student leadership, entre
 
 ### 🤖 AI-Assisted Development
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Google%20Antigravity-AI%20Development-087E9B?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
 </p>
 
 Exploring AI-assisted development workflows to support coding, project implementation, debugging, and productivity.
 
----
+<p align="center">
+  <img src="./fullstack-ai-workflow.svg" width="100%" alt="Full-stack AI development workflow"/>
+</p>
 
-<!-- ========================================================= -->
-<!-- PROJECTS                                                  -->
-<!-- ========================================================= -->
+---
 
 ## 🚀 Featured Projects
 
@@ -247,7 +225,7 @@ Exploring AI-assisted development workflows to support coding, project implement
 
 **AI Animal Identification & Digital Identity**
 
-A product focused on identifying animals through unique biometric patterns, with digital identity and ownership management concepts.
+Animal identification through unique biometric patterns, with digital identity and ownership management concepts.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-06B6D4?style=flat-square&logo=jetpackcompose&logoColor=white)
@@ -296,43 +274,18 @@ Android application exploring weather information through API integration and mo
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 💬 Real-Time Chat Application
-
-Firebase-based chat application experiments, exploring authentication and real-time communication.
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Notes & To-Do Applications
-
-Android applications focused on task management, data handling, and application fundamentals.
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Room](https://img.shields.io/badge/Room-0891B2?style=flat-square)
-
-</td>
-</tr>
 </table>
 
 ---
-
-<!-- ========================================================= -->
-<!-- EXPERIENCE                                                -->
-<!-- ========================================================= -->
 
 ## 💼 Professional Experience
 
 <table>
 <tr>
-<td width="60" align="center" valign="top">
+<td width="55" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="42" alt="Android Studio"/>
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="38" alt="Android Studio"/>
 
 </td>
 <td valign="top">
@@ -346,9 +299,9 @@ Practical experience in Android application development, UI implementation, and 
 </td>
 </tr>
 <tr>
-<td width="60" align="center" valign="top">
+<td width="55" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="42" alt="Kotlin"/>
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="38" alt="Kotlin"/>
 
 </td>
 <td valign="top">
@@ -364,10 +317,6 @@ Contributed to Android implementation and project development tasks in a remote 
 </table>
 
 ---
-
-<!-- ========================================================= -->
-<!-- LEADERSHIP                                                -->
-<!-- ========================================================= -->
 
 ## 🌍 Community & Leadership
 
@@ -390,9 +339,9 @@ Led developer community activities, technical learning initiatives, student enga
 
 ### 🚀 OptiSphere Network
 
-**Community Lead — Sindh Chapter**
+**President — Sindh Chapter**
 
-Leading regional community initiatives, technical sessions, and student engagement across interior Sindh.
+Leading regional community initiatives, technical sessions, and student engagement across Sindh.
 
 </td>
 </tr>
@@ -416,31 +365,13 @@ Contributed to sponsorship outreach, marketing, social media, and hackathon coor
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 📣 Department of Software Engineering
 
-**Social Media Manager — MUET SZAB**
 
-Supporting departmental communication, content creation, and digital presence.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤝 Technology & Student Initiatives
-
-Contributing to student-focused technology activities, collaboration, and knowledge sharing.
-
-</td>
 </tr>
 </table>
 
 ---
-
-<!-- ========================================================= -->
-<!-- WRITING                                                   -->
-<!-- ========================================================= -->
 
 ## ✍️ Writing & Knowledge Sharing
 
@@ -455,10 +386,6 @@ I enjoy documenting technical learning, sharing development experiences, and exp
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!-- GITHUB STATS                                              -->
-<!-- ========================================================= -->
 
 ## 📊 GitHub Statistics
 
@@ -479,10 +406,6 @@ I enjoy documenting technical learning, sharing development experiences, and exp
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!-- PERSONAL PHILOSOPHY                                       -->
-<!-- ========================================================= -->
 
 ## 🎯 What Drives Me
 
@@ -549,7 +472,6 @@ I enjoy documenting technical learning, sharing development experiences, and exp
 <br/><br/>
 
 **Thanks for visiting my profile!**
-
 
 <p align="center">
   <img src="./footer.svg" width="100%" alt="Keep building"/>

@@ -387,24 +387,33 @@ I enjoy documenting technical learning, sharing development experiences, and exp
 
 ---
 
-## 📊 GitHub Statistics
+
+<!-- ================= GITHUB STATISTICS ================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zafar-Alee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub statistics"/>
+  <!-- Overall GitHub Statistics -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zafar-Alee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafar-Alee&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used languages"/>
+  <!-- Most Used Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafar-Alee&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Most Used Languages"/>
 
-<br/><br/>
+  <br/><br/>
 
+  <!-- Contribution Streak -->
+  <img width="75%" src="https://streak-stats.demolab.com?user=zafar-Alee&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak"/>
 
-<img src="https://streak-stats.demolab.com?user=zafar-Alee&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
+  <br/><br/>
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zafar-Alee&bg_color=061B2C&color=67E8F9&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+  <!-- Contribution Activity Graph -->
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zafar-Alee&bg_color=061B2C&color=67E8F9&line=06B6D4&point=FFFFFF&area=true&hide_border=true&radius=12" alt="GitHub Activity Graph"/>
 
 </div>
+
+<!-- ====================================================== -->
+
 
 ---
 

@@ -408,7 +408,11 @@ I enjoy documenting technical learning, sharing development experiences, and exp
   <br/><br/>
 
   <!-- Contribution Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zafar-Alee&bg_color=061B2C&color=67E8F9&line=06B6D4&point=FFFFFF&area=true&hide_border=true&radius=12" alt="GitHub Activity Graph"/>
+ <img
+    width="98%"
+    src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=zafar-Alee&bg_color=061B2C&color=67E8F9&line=06B6D4&point=FFFFFF&area=true&hide_border=true&radius=12"
+    alt="Zafar Ali GitHub Activity Graph"
+  />
 
 </div>
 
